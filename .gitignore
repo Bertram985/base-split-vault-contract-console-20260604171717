@@ -1,0 +1,10 @@
+.next/
+node_modules/
+out/
+dist/
+.vercel/
+*.log
+*.err
+tsconfig.tsbuildinfo
+dev-server.err
+dev-server.log
