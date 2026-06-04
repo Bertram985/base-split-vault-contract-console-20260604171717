@@ -10,9 +10,8 @@ export const BASE_APP_ID = "6a1fda064fbf682eb25dc0be";
 export const TALENT_PROJECT_VERIFICATION = "REPLACE_WITH_TALENT_VERIFICATION_HASH";
 
 export const builderCodeSuffixConfig = {
-  // Replace after Base verifies the head meta tags and issues the builder code.
-  builderCodeDataSuffix: "0x" as Hex,
-  encodedString: "REPLACE_WITH_ENCODED_BUILDER_STRING",
+  builderCodeDataSuffix: "0x62635f77707a64336165780b0080218021802180218021802180218021" as Hex,
+  encodedString: "bc_wpzd3aex",
 };
 
 export const wagmiConfig = createConfig({
