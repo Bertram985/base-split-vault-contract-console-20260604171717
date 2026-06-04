@@ -2,17 +2,9 @@ import type { Address, Hex } from "viem";
 import { keccak256, toBytes } from "viem";
 import { baseSplitVaultAbi } from "@/lib/baseSplitVaultAbi";
 import {
-  BASE_SPLIT_VAULT_APP_ID,
-  BASE_SPLIT_VAULT_APP_NAME,
   CONTRACT_ADDRESS,
   builderCodeSuffixConfig,
 } from "@/lib/wagmi";
-import { trackTransaction } from "@/utils/track";
-
-export type SettlementActionInput = {
-  address?: string;
-  txHash?: string;
-};
 
 type ContractWriteBase = {
   abi: typeof baseSplitVaultAbi;
@@ -31,19 +23,6 @@ export type SettleVaultWriteRequest = ContractWriteBase & {
 };
 
 export type ContractWriteRequest = CreateVaultWriteRequest | SettleVaultWriteRequest;
-
-export async function recordSettlementAction({
-  address,
-  txHash,
-}: SettlementActionInput) {
-  const hash = txHash ?? mockHash();
-
-  await trackTransaction(BASE_SPLIT_VAULT_APP_ID, BASE_SPLIT_VAULT_APP_NAME, address, hash);
-  return {
-    contractAddress: CONTRACT_ADDRESS,
-    hash,
-  };
-}
 
 export function buildCreateVaultWrite({
   labels,
@@ -81,10 +60,6 @@ export function buildSettleVaultWrite({ vaultId }: { vaultId: string }): SettleV
 
 function isConfiguredContract() {
   return CONTRACT_ADDRESS !== "0x0000000000000000000000000000000000000000";
-}
-
-function mockHash() {
-  return `0x${Math.random().toString(16).slice(2).padEnd(64, "0").slice(0, 64)}` as Hex;
 }
 
 function buildVaultKey(parts: string[]) {
