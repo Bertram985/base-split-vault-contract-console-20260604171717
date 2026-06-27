@@ -38,3 +38,10 @@ Then move into the project directory:
 
 ```bash
 cd base-split-vault-contract-console-20260604171717
+```
+
+## Setup
+
+After cloning the repository, inspect the project files to identify the runtime and tooling used.
+
+Common files to check include:
