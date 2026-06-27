@@ -77,3 +77,10 @@ npm run
 Then run the appropriate script for your task.
 
 Common tasks may include:
+
+- Building the project
+- Running tests
+- Starting a local console
+- Running contract scripts
+- Checking formatting
+- Reviewing configuration
