@@ -13,3 +13,12 @@ This README provides a clean starting point for installing, exploring, running, 
 ## Purpose
 
 Use this repository as a workspace for working with the BaseSplitVault_ project.
+
+The repository may include source files, scripts, configuration, and console commands related to the contract workflow.
+
+Because the original project description is minimal, this document avoids assumptions about features that are not confirmed by the repository itself.
+
+## Features
+
+- Clear project identity for BaseSplitVault_
+- GitHub-hosted source repository
