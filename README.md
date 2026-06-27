@@ -116,3 +116,11 @@ Do not commit local environment files or private configuration values.
 Check the repository for a defined test command.
 
 For npm-based projects, this is often:
+
+```bash
+npm test
+```
+
+If the repository uses a different tool, use the test command documented in the project configuration.
+
+## Project Notes
