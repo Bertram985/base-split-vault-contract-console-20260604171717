@@ -100,3 +100,11 @@ A typical local workflow is:
 7. Commit the changes with a clear message.
 
 ## Configuration
+
+If the project requires environment configuration, look for an example file such as:
+
+```bash
+.env.example
+```
+
+Create a local `.env` file only when required by the project.
