@@ -22,3 +22,10 @@ Because the original project description is minimal, this document avoids assump
 
 - Clear project identity for BaseSplitVault_
 - GitHub-hosted source repository
+- Console-oriented project structure
+- Suitable for local inspection and development
+- Ready for additional documentation as the project grows
+
+## Repository
+
+Clone the repository with:
