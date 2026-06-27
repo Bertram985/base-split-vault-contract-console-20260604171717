@@ -148,3 +148,11 @@ Review all contract code and scripts carefully before using them in any live env
 Use local development environments for testing whenever possible.
 
 Do not expose private keys, secrets, or local configuration values.
+
+## License
+
+No license information was provided in the original README.
+
+If a license file exists in the repository, refer to that file.
+
+If no license is present, add one before distributing or reusing the project.
