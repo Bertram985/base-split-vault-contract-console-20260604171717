@@ -53,3 +53,11 @@ Common files to check include:
 - `README.md`
 - `.env.example`
 - `Makefile`
+
+Install dependencies using the package or build tool configured in the repository.
+
+For example, if a `package.json` file is present, use the install command required by that file.
+
+```bash
+npm install
+```
