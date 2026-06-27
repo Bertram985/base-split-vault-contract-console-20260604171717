@@ -93,3 +93,10 @@ A typical local workflow is:
 
 1. Clone the repository.
 2. Install the required dependencies.
+3. Review the source and configuration files.
+4. Run the available test or build command.
+5. Make changes in a focused branch.
+6. Verify the project still builds or passes checks.
+7. Commit the changes with a clear message.
+
+## Configuration
