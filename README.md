@@ -124,3 +124,11 @@ npm test
 If the repository uses a different tool, use the test command documented in the project configuration.
 
 ## Project Notes
+
+This README is intentionally conservative.
+
+It preserves the known project name and repository URL without adding unsupported claims.
+
+Update this file as more project details become available.
+
+Useful additions may include:
