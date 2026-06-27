@@ -108,3 +108,11 @@ If the project requires environment configuration, look for an example file such
 ```
 
 Create a local `.env` file only when required by the project.
+
+Do not commit local environment files or private configuration values.
+
+## Testing
+
+Check the repository for a defined test command.
+
+For npm-based projects, this is often:
