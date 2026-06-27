@@ -132,3 +132,11 @@ It preserves the known project name and repository URL without adding unsupporte
 Update this file as more project details become available.
 
 Useful additions may include:
+
+- A full project description
+- Contract architecture notes
+- Deployment instructions
+- Console command examples
+- Testing strategy
+- Troubleshooting steps
+- Contribution guidelines
