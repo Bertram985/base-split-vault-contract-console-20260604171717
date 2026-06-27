@@ -29,3 +29,12 @@ Because the original project description is minimal, this document avoids assump
 ## Repository
 
 Clone the repository with:
+
+```bash
+git clone https://github.com/Bertram985/base-split-vault-contract-console-20260604171717.git
+```
+
+Then move into the project directory:
+
+```bash
+cd base-split-vault-contract-console-20260604171717
