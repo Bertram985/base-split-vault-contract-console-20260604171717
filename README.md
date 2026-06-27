@@ -140,3 +140,11 @@ Useful additions may include:
 - Testing strategy
 - Troubleshooting steps
 - Contribution guidelines
+
+## Safety
+
+Review all contract code and scripts carefully before using them in any live environment.
+
+Use local development environments for testing whenever possible.
+
+Do not expose private keys, secrets, or local configuration values.
