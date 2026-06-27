@@ -45,3 +45,11 @@ cd base-split-vault-contract-console-20260604171717
 After cloning the repository, inspect the project files to identify the runtime and tooling used.
 
 Common files to check include:
+
+- `package.json`
+- `foundry.toml`
+- `hardhat.config.js`
+- `hardhat.config.ts`
+- `README.md`
+- `.env.example`
+- `Makefile`
