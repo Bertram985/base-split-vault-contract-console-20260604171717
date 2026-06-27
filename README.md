@@ -69,3 +69,11 @@ If another tool is used, follow the configuration found in the repository.
 Start by reviewing the available scripts and configuration.
 
 If the project includes npm scripts, list them with:
+
+```bash
+npm run
+```
+
+Then run the appropriate script for your task.
+
+Common tasks may include:
