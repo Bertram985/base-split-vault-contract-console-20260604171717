@@ -61,3 +61,11 @@ For example, if a `package.json` file is present, use the install command requir
 ```bash
 npm install
 ```
+
+If another tool is used, follow the configuration found in the repository.
+
+## Usage
+
+Start by reviewing the available scripts and configuration.
+
+If the project includes npm scripts, list them with:
