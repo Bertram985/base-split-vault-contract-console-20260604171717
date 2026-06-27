@@ -84,3 +84,12 @@ Common tasks may include:
 - Running contract scripts
 - Checking formatting
 - Reviewing configuration
+
+Only use commands that are defined by the repository files.
+
+## Development Workflow
+
+A typical local workflow is:
+
+1. Clone the repository.
+2. Install the required dependencies.
