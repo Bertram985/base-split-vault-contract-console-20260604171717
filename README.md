@@ -26,3 +26,13 @@ Because the original project description is limited, this documentation avoids m
 - Provides a practical workflow for setup, review, testing, and maintenance
 
 ## Repository
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Bertram985/base-split-vault-contract-console-20260604171717.git
+```
+
+Move into the project directory:
+
+```bash
