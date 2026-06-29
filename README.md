@@ -46,3 +46,12 @@ After cloning the repository, review the files and directories to understand the
 Common files to look for include:
 
 - `README.md`
+- `package.json`
+- `foundry.toml`
+- `hardhat.config.js`
+- `hardhat.config.ts`
+- `.env.example`
+- `Makefile`
+- Source, script, test, or configuration directories
+
+The exact structure should be interpreted from the files present in the repository.
