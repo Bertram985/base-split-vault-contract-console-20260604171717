@@ -178,3 +178,13 @@ If setup fails, start by checking:
 - Missing environment variables
 - Available scripts or task definitions
 - Error messages from the command output
+
+If a command is not recognized, confirm that the corresponding tool is installed and that the repository defines the command.
+
+## License
+
+No license information was provided in the original README.
+
+If a license file exists in the repository, refer to that file.
+
+If no license is present, add one before distributing or reusing the project.
