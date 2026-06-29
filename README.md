@@ -131,3 +131,12 @@ A practical local workflow is:
 
 1. Clone the repository.
 2. Review the project files and configuration.
+3. Install the required dependencies.
+4. Run the available build, test, or validation command.
+5. Create a focused branch for changes.
+6. Make and review changes locally.
+7. Re-run the relevant checks.
+8. Commit changes with a clear message.
+9. Update documentation when behavior, setup, or usage changes.
+
+## Maintenance Notes
