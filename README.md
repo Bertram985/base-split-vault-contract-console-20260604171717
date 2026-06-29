@@ -140,3 +140,13 @@ A practical local workflow is:
 9. Update documentation when behavior, setup, or usage changes.
 
 ## Maintenance Notes
+
+This README is intentionally conservative.
+
+It preserves the known project name and repository URL without adding unsupported technical claims.
+
+As the project evolves, consider adding:
+
+- A more detailed project description
+- Contract architecture notes
+- Console command examples
