@@ -8,3 +8,12 @@ Repository: <https://github.com/Bertram985/base-split-vault-contract-console-202
 
 The project name suggests a vault-oriented contract workspace with a console-based workflow.  
 This README provides a clear starting point for cloning, inspecting, running, and extending the repository.
+
+## Purpose
+
+Use this repository as the workspace for the BaseSplitVault_ project.
+
+The repository may contain source files, scripts, configuration, and console commands related to the contract workflow.  
+Because the original project description is limited, this documentation avoids making assumptions about implementation details that are not confirmed by the repository itself.
+
+## Features
