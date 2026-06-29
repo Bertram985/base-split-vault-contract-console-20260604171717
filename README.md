@@ -55,3 +55,12 @@ Common files to look for include:
 - Source, script, test, or configuration directories
 
 The exact structure should be interpreted from the files present in the repository.
+
+## Setup
+
+Install dependencies using the tool configured by the project.
+
+If a `package.json` file is present, install dependencies with:
+
+```bash
+npm install
