@@ -36,3 +36,13 @@ git clone https://github.com/Bertram985/base-split-vault-contract-console-202606
 Move into the project directory:
 
 ```bash
+cd base-split-vault-contract-console-20260604171717
+```
+
+## Project Structure
+
+After cloning the repository, review the files and directories to understand the tooling and layout.
+
+Common files to look for include:
+
+- `README.md`
