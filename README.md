@@ -169,3 +169,12 @@ Keep private keys, secrets, and local configuration values out of version contro
 Validate commands and configuration before running scripts that interact with external systems.
 
 ## Troubleshooting
+
+If setup fails, start by checking:
+
+- The required runtime version
+- Installed dependencies
+- Project configuration files
+- Missing environment variables
+- Available scripts or task definitions
+- Error messages from the command output
