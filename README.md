@@ -74,3 +74,13 @@ Examples of tooling indicators include:
 - `hardhat.config.js` or `hardhat.config.ts` for Hardhat-based workflows
 - `Makefile` for task shortcuts
 - Package manager lockfiles for dependency management
+
+## Configuration
+
+If environment configuration is required, check for an example file such as:
+
+```bash
+.env.example
+```
+
+Create a local `.env` file only if the repository requires one.
