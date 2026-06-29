@@ -112,3 +112,13 @@ Common tasks in contract console projects may include:
 Only run commands that are defined or supported by the repository files.
 
 ## Testing
+
+Check the repository for a defined test command.
+
+For npm-based projects, a common command is:
+
+```bash
+npm test
+```
+
+If another tool is used, run the test command documented in the project configuration.
