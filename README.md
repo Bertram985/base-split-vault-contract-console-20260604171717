@@ -92,3 +92,13 @@ Do not commit local environment files, private configuration values, keys, or se
 Start by reviewing the available scripts and configuration.
 
 If the project includes npm scripts, list them with:
+
+```bash
+npm run
+```
+
+Then run the script that matches the task you want to perform.
+
+Common tasks in contract console projects may include:
+
+- Building the project
