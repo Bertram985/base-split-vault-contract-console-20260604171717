@@ -64,3 +64,13 @@ If a `package.json` file is present, install dependencies with:
 
 ```bash
 npm install
+```
+
+If the repository uses a different tool, follow the instructions implied by its configuration files.
+
+Examples of tooling indicators include:
+
+- `foundry.toml` for Foundry-based workflows
+- `hardhat.config.js` or `hardhat.config.ts` for Hardhat-based workflows
+- `Makefile` for task shortcuts
+- Package manager lockfiles for dependency management
