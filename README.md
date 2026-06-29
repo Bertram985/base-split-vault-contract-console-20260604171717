@@ -102,3 +102,13 @@ Then run the script that matches the task you want to perform.
 Common tasks in contract console projects may include:
 
 - Building the project
+- Running tests
+- Starting a local console
+- Running scripts
+- Checking formatting
+- Reviewing configuration
+- Inspecting contract-related files
+
+Only run commands that are defined or supported by the repository files.
+
+## Testing
