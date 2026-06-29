@@ -84,3 +84,11 @@ If environment configuration is required, check for an example file such as:
 ```
 
 Create a local `.env` file only if the repository requires one.
+
+Do not commit local environment files, private configuration values, keys, or secrets.
+
+## Usage
+
+Start by reviewing the available scripts and configuration.
+
+If the project includes npm scripts, list them with:
