@@ -150,3 +150,12 @@ As the project evolves, consider adding:
 - A more detailed project description
 - Contract architecture notes
 - Console command examples
+- Build instructions
+- Deployment instructions
+- Test strategy
+- Troubleshooting guidance
+- Contribution guidelines
+- Security considerations
+- License details
+
+## Safety
