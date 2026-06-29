@@ -159,3 +159,13 @@ As the project evolves, consider adding:
 - License details
 
 ## Safety
+
+Review all contract code and scripts carefully before using them in any live environment.
+
+Use local development environments for testing whenever possible.
+
+Keep private keys, secrets, and local configuration values out of version control.
+
+Validate commands and configuration before running scripts that interact with external systems.
+
+## Troubleshooting
