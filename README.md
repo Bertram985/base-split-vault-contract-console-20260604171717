@@ -122,3 +122,12 @@ npm test
 ```
 
 If another tool is used, run the test command documented in the project configuration.
+
+Before making changes, it is recommended to run the existing test or validation command, if one is available.
+
+## Development Workflow
+
+A practical local workflow is:
+
+1. Clone the repository.
+2. Review the project files and configuration.
